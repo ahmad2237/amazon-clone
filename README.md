@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 # Line changed on web version 1
 # Getting Started with Create React App
+=======
+# Line changed on web
+# Line Changed Locally
+>>>>>>> Stashed changes
 # Getting Started with Create React App
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
